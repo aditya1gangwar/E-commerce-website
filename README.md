@@ -1,1 +1,1 @@
-# E-commerce-website
+Developed a responsive and user-friendly e-commerce website using HTML, CSS, and JavaScript. Implemented features like product listings, image gallery, category filters, and shopping cart UI.
